@@ -1,0 +1,2 @@
+webpackJsonp([5],{235:function(n,e,t){var r=t(2)(null,t(259),null,null);n.exports=r.exports},259:function(n,e){n.exports={render:function(){var n=this,e=n.$createElement;return(n._self._c||e)("div",[n._v("\n  我的收藏夹\n")])},staticRenderFns:[]}}});
+//# sourceMappingURL=5.a5a16b81476ad176f820.js.map
