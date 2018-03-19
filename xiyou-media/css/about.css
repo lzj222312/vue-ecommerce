@@ -1,0 +1,10 @@
+.bg{
+	width: 100%;
+	height:351px;
+	background: url(../images/banner_fruit.png) center top;
+}
+.content .cont_box .box{
+	width: 100%;
+	height: 496px;
+	background: url(../images/cont_fruit_bg.png);
+}
